@@ -1,7 +1,22 @@
-#name {
+
+body {
+	font-family: 'Quicksand', sans-serif;
+	width: 35%;
 	text-align: center;
+	margin: auto;
+	margin-top: 20px;
+	font-size: 20px;
+}
+
+#name {
+	background-color: grey;
 }
 
 #contact {
-	text-align: center;
+	background-color: grey;
+}
+
+.divider {
+	background-color: #e6ecff;
+	height: 15px;
 }
